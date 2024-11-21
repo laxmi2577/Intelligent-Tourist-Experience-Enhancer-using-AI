@@ -1,4 +1,4 @@
-Intelligent Tourist Experience Enhancer using AI
+# Intelligent Tourist Experience Enhancer using AI
 
 • The rise of tourist data, particularly from Online Travel Agencies (OTAs), has led to overwhelming options.
 
